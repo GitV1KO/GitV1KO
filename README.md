@@ -2,15 +2,11 @@
 
 <img src="./banner.svg" width="100%" alt="Viruskk — HUST graduate student in Electronic Information" />
 
-<a href="https://github.com/GitV1KO"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=2600&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hi%2C+I%27m+Viruskk.;Learning+by+building+and+experimenting.;From+code+to+real+hardware." alt="Hi, I'm Viruskk. Learning by building and experimenting. From code to real hardware." /></a>
-
 <p>
   <a href="https://github.com/GitV1KO"><img src="https://img.shields.io/badge/GitHub-GitV1KO-1E293B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub: GitV1KO" /></a>
   <a href="mailto:viruskk.godk@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0891B2?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email: viruskk.godk@gmail.com" /></a>
   <a href="https://www.hust.edu.cn/"><img src="https://img.shields.io/badge/HUST-Grad_Student-2563EB?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="HUST graduate student" /></a>
 </p>
-
-<p><b>A place for my projects, experiments, and things I learn along the way.</b></p>
 
 </div>
 
@@ -21,7 +17,6 @@
     <td width="50%" valign="top">
       <h3>👋 A little about me</h3>
       <p>I'm <b>Viruskk</b>, a graduate student in <b>Electronic Information</b> at <b>Huazhong University of Science and Technology</b>.</p>
-      <p>I use this space to keep the projects I build and share what I learn from them.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🔧 On my desk lately</h3>
@@ -73,7 +68,4 @@ A course project that runs handwritten-digit recognition on a **TI TMS320C6416 /
 
 <br />
 
-<p align="center"><b>Learn a little. Build something. Keep going.</b></p>
 <p align="center"><a href="mailto:viruskk.godk@gmail.com">viruskk.godk@gmail.com</a></p>
-
-<img src="./footer.svg" width="100%" alt="" />
