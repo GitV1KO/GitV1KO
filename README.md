@@ -2,11 +2,6 @@
 
 <img src="./banner.svg" width="100%" alt="Viruskk — HUST graduate student in Electronic Information" />
 
-<p>
-  <a href="https://github.com/GitV1KO"><img src="https://img.shields.io/badge/GitHub-GitV1KO-1E293B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub: GitV1KO" /></a>
-  <a href="mailto:viruskk.godk@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0891B2?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email: viruskk.godk@gmail.com" /></a>
-  <a href="https://www.hust.edu.cn/"><img src="https://img.shields.io/badge/HUST-Grad_Student-2563EB?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="HUST graduate student" /></a>
-</p>
 
 </div>
 
