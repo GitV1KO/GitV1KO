@@ -30,11 +30,12 @@
 
 <h2 align="center">🧰 My toolkit</h2>
 
-<p align="center">Tools I'm using and learning</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,opencv,git&amp;perline=5" alt="C, C++, Python, OpenCV, and Git" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=c,cpp,python,opencv,git,linux,kali&amp;perline=7" height="48" alt="C, C++, Python, OpenCV, Git, Linux, and Kali Linux" /></p>
+<p><img src="https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,latex&amp;perline=4" height="48" alt="VS Code, Visual Studio, Obsidian, and LaTeX" /> &nbsp;<img src="./extra-tools.svg" width="160" height="48" alt="ChatGPT, Binance, and TradingView" /></p>
+
+</div>
 
 <h2 align="center">⚡ Featured project</h2>
 
